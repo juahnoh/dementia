@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/dementia/static/css/main.b9856df2.css",
-    "main.js": "/dementia/static/js/main.67326a98.js",
+    "main.js": "/dementia/static/js/main.51e42827.js",
     "static/media/hospital.png": "/dementia/static/media/hospital.5b1eb115faf847f61ec3.png",
     "index.html": "/dementia/index.html",
     "main.b9856df2.css.map": "/dementia/static/css/main.b9856df2.css.map",
-    "main.67326a98.js.map": "/dementia/static/js/main.67326a98.js.map"
+    "main.51e42827.js.map": "/dementia/static/js/main.51e42827.js.map"
   },
   "entrypoints": [
     "static/css/main.b9856df2.css",
-    "static/js/main.67326a98.js"
+    "static/js/main.51e42827.js"
   ]
 }
